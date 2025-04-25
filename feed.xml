@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version = "2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://virgijdg334.github.io/cardTCGShop/rss.xml" rel="self" type="application/rss+xml" />
         <title>cardTCGShop</title>
         <link>https://virgijdg334.github.io/cardTCGShop/index.html</link>
         <description>Esta pagina esta dedicada a la venta de cartas pokemon, tambien contiene videos tutoriales para juegos de cartas pokemon y entretenimiento acerca de lo mismo.</description>
         <language>es</language>
+        <atom:link href="https://virgijdg334.github.io/cardTCGShop/rss.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Inicio</title>
             <link>https://virgijdg334.github.io/cardTCGShop/index.html</link>
