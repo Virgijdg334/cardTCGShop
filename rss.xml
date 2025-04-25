@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version = "2.0">
+    <channel>
+        <title>cardTCGShop</title>
+        <link>https://virgijdg334.github.io/cardTCGShop/index.html</link>
+        <description>Esta pagina esta dedicada a la venta de cartas pokemon, tambien contiene videos tutoriales para juegos de cartas pokemon y entretenimiento acerca de lo mismo.</description>
+        <languaje>es</languaje>
+        <item>
+            <title>Inicio</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/index.html</link>
+            <description>Pagina principal de la web y donde podemos observar las cartas en venta.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/index.html</guid>
+        </item>
+        <item>
+            <title>Registro</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/registro.html</link>
+            <description>Apartado especifico para registrar nuestro usuario en la web.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/registro.html</guid>
+        </item>
+        <item>
+            <title>Inicio de sesion</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/iniciodesesion.html</link>
+            <description>Apartado especifico para iniciar sesion en caso de que ya tengamos una cuenta registrada.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/iniciodesesion.html</guid>
+        </item>
+        <item>
+            <title>Videos</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/videos.html</link>
+            <description>Seccion donde podremos observar dintintos videos tutoriales segun el juego de cartas que queremos experimentar.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/videos.html</guid>
+        </item>
+        <item>
+            <title>Juego</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/game.html</link>
+            <description>En esta parte de la web hemos añadido un lugar donde los usuarios puedan entretenerse mediante un juego de adivinar el pokemon al estilo antiguo.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/game.html</guid>
+        </item>
+        <item>
+            <title>Sobre nosotros</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/aboutus.html</link>
+            <description>Hemos dedicado un lugar de nuestra web para presentarnos y los usuarios mas curiosos puedan saber el trabajo que hay detras.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/aboutus.html</guid>
+        </item>
+        <item>
+            <title>Pago</title>
+            <link>https://virgijdg334.github.io/cardTCGShop/pago.html</link>
+            <description>A este apartado se accede en caso de que el usuario quiera comprar una carta, para ello debera de ingresar sus datos bancarios y lo que quiere comprar.</description>
+            <guid isPermaLink='true'>https://virgijdg334.github.io/cardTCGShop/pago.html</guid>
+        </item>
+    </channel>
+</rss>
